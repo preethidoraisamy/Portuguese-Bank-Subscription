@@ -71,9 +71,15 @@ But when multiple models with hyper parameter tuning in the pipeline gives Decis
 
 
 
+**Files**
 
+Portuguese Bank Subcribtion.ipynb - EDA and modeling
 
+Endusers Presentation.pdf         - Small presentation for end users
 
+bank-additional-full.csv          - Full dataset
+
+bank-additional.csv               - 10 % of data from bank-additional-full.csv for run SVC model
 
 
 
